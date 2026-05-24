@@ -37,9 +37,9 @@ export default function Footer() {
             <div className="flex gap-4">
               <MapPin className="text-emerald-500 shrink-0" size={20} />
               <address className="text-emerald-100/70 text-sm not-italic leading-relaxed">
-                Same Building Rustam Autos, Office 1<br />
+                Office #1 Main GT road<br />
                 Main GT road, Near Bank Alfalah<br />
-                Tarnol, Islamabad, Pakistan
+                Islamabad, Pakistan
               </address>
             </div>
           </div>
